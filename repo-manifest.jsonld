@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dask/fastparquet/commit/d5c57426e8bfe4445d351c362e4379787957ece0",
       "git:hexsha": "d5c57426e8bfe4445d351c362e4379787957ece0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/dask/fastparquet/commit/ad2c488b4bbcf9e9acaa3bf259a75efddf74f816",

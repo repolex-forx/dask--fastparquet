@@ -1,0 +1,7 @@
+[2026-10-17T03:17:39Z] === AST ITERATION 1 START | repo=dask/fastparquet sha=d5c57426 ===
+[2026-10-17T03:17:39Z] [iter=1] PHASE START: ast repo=dask/fastparquet sha=d5c57426
+[2026-10-17T03:17:39Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T03:18:45Z] [iter=1] AST chunks built count=1 triples=631105
+[2026-10-17T03:18:45Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d5c57426e8bfe4445d351c362e4379787957ece0/.complete
+[2026-10-17T03:18:45Z] [iter=1] PHASE END: ast elapsed_s=65 elapsed_min=1.1
+[2026-10-17T03:18:45Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
